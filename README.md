@@ -29,4 +29,4 @@ Healthcare Data Analysis
 Project Impact
 
 Successfully transformed a large healthcare dataset of 12,500+ records into a reliable analytical model and interactive reporting solution, enabling stakeholders to efficiently monitor and analyze relationships between hospitals and insurance providers.
-here is a snip for project 
+here is a snip for project (https://github.com/amjedhamdeen/Healthcare-Project/blob/main/healthcare%20project%201.JPG)
