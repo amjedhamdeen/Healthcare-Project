@@ -14,7 +14,6 @@ Designed and optimized data transformation workflows in Power Query to improve d
 Developed interactive dashboards in Power BI to visualize:
 Hospital-insurance provider relationships.
 Coverage distribution across providers.
-Network participation trends.
 Key performance indicators (KPIs) and summary metrics.
 Created dynamic filters and drill-down capabilities to enable detailed analysis by hospital, insurance company, and coverage category.
 Delivered actionable insights through data visualization, supporting decision-making and improving visibility into healthcare provider-insurer partnerships.
@@ -29,4 +28,5 @@ Healthcare Data Analysis
 Project Impact
 
 Successfully transformed a large healthcare dataset of 12,500+ records into a reliable analytical model and interactive reporting solution, enabling stakeholders to efficiently monitor and analyze relationships between hospitals and insurance providers.
-here is a snip for project (https://github.com/amjedhamdeen/Healthcare-Project/blob/main/healthcare%20project%201.JPG)
+here is a snip shots for project (https://github.com/amjedhamdeen/Healthcare-Project/blob/main/healthcare%20project%201.JPG)
+(https://github.com/amjedhamdeen/Healthcare-Project/blob/main/healthcare%20project%202.JPG).
